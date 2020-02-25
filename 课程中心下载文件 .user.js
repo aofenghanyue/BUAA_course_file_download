@@ -6,6 +6,7 @@
 // @author       Ofyue
 // @include      https://course.e2.buaa.edu.cn/portal/site/*
 // @include      https://course.e1.buaa.edu.cn/portal/site/*
+// @include      https://course.buaa.edu.cn/portal/site/*
 // @grant        none
 // ==/UserScript==
 
