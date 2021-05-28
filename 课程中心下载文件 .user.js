@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         北航课程中心添加下载文件按钮
 // @namespace    BUAA_Ofyue
-// @version      0.3
+// @version      0.4
 // @description  在北航课程中心资源列表，选中资源后即可下载选中资源!欢迎关注“怎么可能”VX公众号，我们带你上天入地！
 // @author       Ofyue
 // @include      https://course.e2.buaa.edu.cn/portal/site/*
 // @include      https://course.e1.buaa.edu.cn/portal/site/*
 // @include      https://course.buaa.edu.cn/portal/site/*
+// @include      http://course.e2.buaa.edu.cn/portal/site/*
+// @include      http://course.e1.buaa.edu.cn/portal/site/*
+// @include      http://course.buaa.edu.cn/portal/site/*
 // @grant        none
 // ==/UserScript==
 
